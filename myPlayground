@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T06:56:09.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="a5Haiq_uD8b-1GiZkMXu" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T07:17:57.482Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="SOzYoQwMqEKhmhFCFi_z" version="21.1.2" type="github">
   <diagram name="LINE Bank Hybrid" id="s65qwSFVHycvoS-8h3IN">
-    <mxGraphModel dx="1393" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,7 +87,7 @@
         <mxCell id="gCsKrFir3tqbrJ301L3h-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="1" source="gCsKrFir3tqbrJ301L3h-23" target="gCsKrFir3tqbrJ301L3h-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gCsKrFir3tqbrJ301L3h-31" value="&lt;b&gt;Objective development for adding 1 json data which provide via CMS such as:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&quot;debitCardVersion&quot;: &quot;string&quot;&lt;br&gt;&lt;br&gt;*example:&lt;br&gt;&lt;br&gt;&quot;debitCardVersion&quot;: &quot;A&quot; -&amp;gt; Visa contactless&lt;br&gt;&quot;debitCardVersion&quot;: &quot;B&quot; -&amp;gt; Visa&lt;br&gt;&quot;debitCardVersion&quot;: &quot;C&quot; -&amp;gt; GPN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gCsKrFir3tqbrJ301L3h-31" value="&lt;b&gt;Objective development for adding 1 json data which provide via CMS such as:&lt;/b&gt;&lt;br&gt;&lt;br&gt;&quot;cardVersion&quot;: &quot;string&quot;&lt;br&gt;&lt;br&gt;*example:&lt;br&gt;&lt;br&gt;&quot;cardVersion&quot;: &quot;A&quot; -&amp;gt; Visa contactless&lt;br&gt;&quot;cardVersion&quot;: &quot;B&quot; -&amp;gt; Visa&lt;br&gt;&quot;cardVersion&quot;: &quot;C&quot; -&amp;gt; GPN" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="286.39" y="1170" width="295" height="160" as="geometry" />
         </mxCell>
         <mxCell id="gCsKrFir3tqbrJ301L3h-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="gCsKrFir3tqbrJ301L3h-24" target="gCsKrFir3tqbrJ301L3h-31">
