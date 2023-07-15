@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-15T10:26:54.192Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="155-wpEUi2k9s8vEhxRt" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-07-15T10:33:25.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="G5P2TO4SqVsHXDM3_HZy" version="21.3.7" type="github" pages="2">
   <diagram name="LINE Bank Hybrid" id="s65qwSFVHycvoS-8h3IN">
     <mxGraphModel dx="2284" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -198,11 +198,6 @@
         <mxCell id="VktN33hFgmsTr264BJrd-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;strokeWidth=3;" parent="pTqwlw5-Y_0_fLqyi4wX-1" vertex="1">
           <mxGeometry x="-540" y="650" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GiBvpCozYrlsY_g57TWP-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="GiBvpCozYrlsY_g57TWP-20" target="GiBvpCozYrlsY_g57TWP-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-180" y="1385" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GiBvpCozYrlsY_g57TWP-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="GiBvpCozYrlsY_g57TWP-3" target="GiBvpCozYrlsY_g57TWP-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -227,9 +222,9 @@
         <mxCell id="GiBvpCozYrlsY_g57TWP-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Rancangan&amp;nbsp;&lt;i&gt;Framework&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="90" y="1090" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GiBvpCozYrlsY_g57TWP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="GiBvpCozYrlsY_g57TWP-11" target="GiBvpCozYrlsY_g57TWP-20">
+        <mxCell id="GiBvpCozYrlsY_g57TWP-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="GiBvpCozYrlsY_g57TWP-11" target="GiBvpCozYrlsY_g57TWP-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="39.559999999999945" y="1380.5" as="targetPoint" />
+            <mxPoint x="10" y="1380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GiBvpCozYrlsY_g57TWP-11" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Analisis Validasi&amp;nbsp;&lt;br&gt;&lt;i style=&quot;border-color: var(--border-color);&quot;&gt;Framework&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
@@ -239,7 +234,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GiBvpCozYrlsY_g57TWP-16" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Evaluasi Rancangan &lt;i&gt;Framework&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
-          <mxGeometry x="-390" y="1340" width="160" height="80" as="geometry" />
+          <mxGeometry x="-270" y="1340" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GiBvpCozYrlsY_g57TWP-17" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;strokeWidth=3;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="-530" y="1350" width="60" height="60" as="geometry" />
@@ -249,9 +244,6 @@
         </mxCell>
         <mxCell id="GiBvpCozYrlsY_g57TWP-19" value="Versi 1.1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="-100" y="1020" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="GiBvpCozYrlsY_g57TWP-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Analisis dan Validasi &lt;i&gt;Framework&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
-          <mxGeometry x="-150" y="1340" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
