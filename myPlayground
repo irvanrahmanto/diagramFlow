@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-06T04:06:25.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="zazzN2xNwozMv9p6md6S" version="21.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-06T05:22:11.905Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="ioMj0kTXOZFUlVt6Utvz" version="21.6.6" type="github" pages="2">
   <diagram name="Thesis" id="K7gEUkjou9IZCRV3a2Pf">
-    <mxGraphModel dx="1854" dy="642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3063" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pTqwlw5-Y_0_fLqyi4wX-0" />
         <mxCell id="pTqwlw5-Y_0_fLqyi4wX-1" parent="pTqwlw5-Y_0_fLqyi4wX-0" />
@@ -593,6 +593,60 @@
         </mxCell>
         <mxCell id="ImksSGiolBeJD399RuIH-10" value="&lt;font face=&quot;Times New Roman&quot;&gt;Pengujian &lt;i&gt;Framework&lt;/i&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="-245" y="3370" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="ImksSGiolBeJD399RuIH-17" target="ImksSGiolBeJD399RuIH-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Extract concept from methods specification&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-480" y="3780" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="ImksSGiolBeJD399RuIH-18" target="ImksSGiolBeJD399RuIH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-18" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Classify extracted concepts according to Essence concepts&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-480" y="3880" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="ImksSGiolBeJD399RuIH-20" target="ImksSGiolBeJD399RuIH-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-20" value="Input" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-450" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="ImksSGiolBeJD399RuIH-21" target="ImksSGiolBeJD399RuIH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-21" value="Proses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-250" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-23" value="Output" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-50" y="3600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="ImksSGiolBeJD399RuIH-25" target="ImksSGiolBeJD399RuIH-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-25" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Specify concept using Essence Language&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-480" y="3980" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="ImksSGiolBeJD399RuIH-26" target="ImksSGiolBeJD399RuIH-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-26" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Specify properties of concept&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-480" y="4080" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="ImksSGiolBeJD399RuIH-27" target="ImksSGiolBeJD399RuIH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-27" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Associate related concept&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-480" y="4180" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-28" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Review essentialized method&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-480" y="4280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-34" value="Essence kernel sama Essence language itu tahapan tahapan nya kalo define methods apaan aja? bikin aja jadi step input awalnya ???" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-950" y="3840" width="280" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ImksSGiolBeJD399RuIH-35" value="Terus nanti setelah udah diinput dll, pas diprses dalemnya ada evaluation input, yaitu dilakukan essentialization process&lt;br&gt;&lt;br&gt;sehingga menghasilkan:&lt;br&gt;&lt;br&gt;cheklist alpha state card dll gitu2 lah kaya papernya si park atau gorem giray!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="-80" y="3850" width="280" height="115" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
