@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-15T09:53:39.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="wYddaqzgNpb-c2AVop9S" version="21.7.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-09-18T04:12:08.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="AUMU9MazhIgSw2kph-Nq" version="21.7.5" type="github" pages="2">
   <diagram name="Thesis" id="K7gEUkjou9IZCRV3a2Pf">
-    <mxGraphModel dx="10133" dy="3647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4810" dy="880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="pTqwlw5-Y_0_fLqyi4wX-0" />
         <mxCell id="pTqwlw5-Y_0_fLqyi4wX-1" parent="pTqwlw5-Y_0_fLqyi4wX-0" />
@@ -10,7 +10,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QwhcIpZSEb1kxfLZg32_-258" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
-          <mxGeometry x="6040" y="5535" width="650" height="480" as="geometry" />
+          <mxGeometry x="6360" y="5535" width="330" height="480" as="geometry" />
         </mxCell>
         <mxCell id="aMoq3YDTBqgKC2H1dh1R-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="aMoq3YDTBqgKC2H1dh1R-0" target="aMoq3YDTBqgKC2H1dh1R-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1894,19 +1894,19 @@
         <mxCell id="QwhcIpZSEb1kxfLZg32_-257" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Comparation Process - Bab 3 -&amp;gt; Mengadaptasi cara dari paper si Gorkem Giray -&amp;gt; Perlu cari sitasi lagi cara bandingin &amp;amp; juga dasar perbandingan nya di hal yang apa aja? kalau menurut gua sih di hal2 essensial aja, misalnya alpha, dll nya hrs memenuhi gimana biar dikatakan lengkap, pakai asumsi, akalu bisa pakai paper rujukan!!!!&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="6040" y="5405" width="720" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="QwhcIpZSEb1kxfLZg32_-259" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Essentialized Method&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+        <mxCell id="QwhcIpZSEb1kxfLZg32_-259" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;b&gt;Hasil Perbandingan&lt;/b&gt;&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeWidth=2;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="6820" y="5735" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="QwhcIpZSEb1kxfLZg32_-262" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Method Comparation Process&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
-          <mxGeometry x="6230" y="5565" width="270" height="30" as="geometry" />
+        <mxCell id="QwhcIpZSEb1kxfLZg32_-262" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;i&gt;Method Comparation Process&lt;/i&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+          <mxGeometry x="6390" y="5560" width="270" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QwhcIpZSEb1kxfLZg32_-265" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="pTqwlw5-Y_0_fLqyi4wX-1" source="QwhcIpZSEb1kxfLZg32_-263" target="QwhcIpZSEb1kxfLZg32_-264">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QwhcIpZSEb1kxfLZg32_-263" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Essentialized Method&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+        <mxCell id="QwhcIpZSEb1kxfLZg32_-263" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Essentialized Method&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="6100" y="5810" width="225" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="QwhcIpZSEb1kxfLZg32_-264" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Essentialized Method&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
+        <mxCell id="QwhcIpZSEb1kxfLZg32_-264" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Times New Roman&quot;&gt;Perbandingan &lt;i&gt;Method&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="pTqwlw5-Y_0_fLqyi4wX-1">
           <mxGeometry x="6420" y="5810" width="225" height="140" as="geometry" />
         </mxCell>
       </root>
